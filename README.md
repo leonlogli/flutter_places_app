@@ -1,6 +1,6 @@
 # flutter_places_app
 
-A new Flutter project.
+A Flutter project to interact with native device features (camera, locations).
 
 ## Getting Started
 
